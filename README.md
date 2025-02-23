@@ -73,5 +73,15 @@ The `burn` and related crates often undergo updates, leading to API changes. Som
 - Implementing a basic neural network model for regression.
 - Understanding gradient descent and loss minimization in Rust.
 
+# Reflection on Learning
+
+-  Sources of Help: AI, official documentation, and online community resources were instrumental in troubleshooting errors.
+
+- Challenges: Some errors took longer to debug, especially those related to API changes.
+
+- Takeaways: This project strengthened my understanding of Rust’s type system, error handling, and neural network implementation using the Burn library. Future improvements may involve seeking additional help from experienced Rust developers or the Burn library community.
+
+
+
 ## Author
 Nelisiwe
